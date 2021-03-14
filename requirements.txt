@@ -27,3 +27,11 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+uvicorn
+fastapi
+pydantic
+tensorflow
+
+Pillow
+python-multipart
