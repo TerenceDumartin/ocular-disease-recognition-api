@@ -35,3 +35,6 @@ tensorflow
 
 Pillow
 python-multipart
+
+tensorflow-addons
+
