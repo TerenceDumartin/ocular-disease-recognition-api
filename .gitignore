@@ -8,3 +8,4 @@ raw_data/
 model0_classif_eye.h5
 model1_models_model_inception2_v0_N_70.h5
 model2_models_model_vlundi_v1_GCAHMO_58.h5
+Dockerfile
